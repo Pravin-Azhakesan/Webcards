@@ -1,0 +1,26 @@
+body{
+
+    background-color: lightgrey;
+}
+a{
+    
+    border-bottom: 3px solid blueviolet;
+}
+.fa {
+color: rgba(255, 127, 80, 0.76);
+}
+.box1{
+
+    background-color: whitesmoke;
+    padding : 60px 10px;
+    margin : 25px 0px;
+}
+.text {
+
+margin : 15px 0px;
+}
+.box {
+
+    padding : 60px 0px;
+
+}
